@@ -19,4 +19,5 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Jetpack CLI: correctly replace project description and release-branch-prefix.
 - Updated .gitattributes file so it is able to build properly by the CI build jobs
