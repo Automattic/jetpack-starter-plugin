@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - initial release
 
 ### Changed
+- Configure Sync with the minimal amount of data
 - Updated package dependencies
 - Updated package dependencies.
 
