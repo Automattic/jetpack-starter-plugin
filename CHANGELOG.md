@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Configure Sync with the minimal amount of data
 - Updated package dependencies
 - Updated package dependencies.
+- Update package.json metadata.
 
 ### Fixed
 - Jetpack CLI: correctly replace project description and release-branch-prefix.
