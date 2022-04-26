@@ -136,7 +136,7 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Jetpack_IXR_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php',
     'Jetpack_IXR_ClientMulticall' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-clientmulticall.php',
-    'Jetpack_Options' => $baseDir . '/jetpack_vendor/automattic/jetpack-options/legacy/class-jetpack-options.php',
+    'Jetpack_Options' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-options.php',
     'Jetpack_Signature' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-signature.php',
     'Jetpack_Starter_Plugin' => $baseDir . '/src/class-jetpack-starter-plugin.php',
     'Jetpack_Tracks_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
