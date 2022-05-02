@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Configure Sync with the minimal amount of data
+- Remove use of `pnpx` in preparation for pnpm 7.0.
 - Updated package dependencies
 - Updated package dependencies.
 - Update package.json metadata.
