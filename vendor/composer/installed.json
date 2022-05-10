@@ -337,7 +337,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection",
-                "reference": "81401a4a3c3c52ea8e0504fa275b529759b589d7"
+                "reference": "6a7252d6236f0fd0e3b0be2fe535b01d37f49681"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^1.4",
@@ -377,6 +377,12 @@
                 ]
             },
             "scripts": {
+                "build-production": [
+                    "pnpm run build-production"
+                ],
+                "build-development": [
+                    "pnpm run build"
+                ],
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
