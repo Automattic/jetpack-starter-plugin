@@ -19,7 +19,6 @@ This is an alpha version! The changes listed here are not final.
 - Configure Sync with the minimal amount of data
 - Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
-- Updated package dependencies
 - Updated package dependencies.
 - Update package.json metadata.
 
