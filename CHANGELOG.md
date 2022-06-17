@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add actiavtion and deactivation hooks
+- E2E tests boilerplate
 - Enable beta plugin support
 - initial release
 
