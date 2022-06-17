@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
 - Renaming master to trunk.
+- Renaming `master` references to `trunk`
 - Reorder JS imports for `import/order` eslint rule.
 - Updated package dependencies.
 - Update package.json metadata.
