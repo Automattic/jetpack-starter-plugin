@@ -115,7 +115,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
-            'reference' => 'e11269810b07d89c7754ccf175dad1db719d35b6',
+            'reference' => '837996bf4a48827011dac0e36644df0960378c17',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-password-checker' => array(
