@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - E2E tests: fixed pretest cleanup script not running
+- Plugin activation: Only redirect when activating from Plugins page in the browser
 
 ## 0.1.0 - 2022-07-06
 ### Added
