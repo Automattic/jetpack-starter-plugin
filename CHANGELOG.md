@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - My Jetpack includes JITMs
+- Use ThemeProvider when rendering Starter Plugin AdminPage
 
 ### Changed
 - E2E tests: bump dependencies
