@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - E2E tests: bump dependencies
 
+### Removed
+- E2E tests: removed deprecated Slack notification code
+
 ### Fixed
 - E2E tests: fixed pretest cleanup script not running
 - Plugin activation: Only redirect when activating from Plugins page in the browser
