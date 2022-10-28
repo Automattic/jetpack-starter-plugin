@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Use ThemeProvider when rendering Starter Plugin AdminPage
 
 ### Changed
+- Compatibility: WordPress 6.1 compatibility
 - E2E tests: bump dependencies
 
 ### Removed
