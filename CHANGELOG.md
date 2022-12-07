@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add support for JITMs to starter plugin
 - E2E tests: use CI build artifacts in e2e tests
 - My Jetpack includes JITMs
+- Starter Plugin: Add basic JS and PHP test setup
 - Use ThemeProvider when rendering Starter Plugin AdminPage
 
 ### Changed
