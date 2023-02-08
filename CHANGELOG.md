@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Compatibility: WordPress 6.1 compatibility
 - E2E tests: bump dependencies
 - Update playwright dependency
+- Update to React 18.
 
 ### Removed
 - E2E tests: removed deprecated Slack notification code
