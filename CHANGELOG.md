@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- General: indicate full compatibility with the latest version of WordPress, 6.3.
+
 ## 0.3.0 - 2023-07-06
 ### Added
 - Add authentication to zendesk chat widget [#31339]
