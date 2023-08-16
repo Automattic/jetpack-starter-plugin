@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3.
+- Use the new method to render Connection initial state.
 
 ## 0.3.0 - 2023-07-06
 ### Added
