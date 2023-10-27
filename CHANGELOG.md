@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - General: remove WP 6.1 backwards compatibility checks
 - General: update WordPress version requirements to WordPress 6.2.
 - Updated Jetpack submenu sort order so individual features are alpha-sorted.
+- Update lockfile
 - Use the new method to render Connection initial state.
 
 ## 0.3.0 - 2023-07-06
