@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.2.
 - General: update WordPress version requirements to WordPress 6.3.
 - Updated Jetpack submenu sort order so individual features are alpha-sorted.
+- Updated package dependencies.
 - Update lockfile
 - Use the new method to render Connection initial state.
 
