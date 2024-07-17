@@ -27,6 +27,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package lock
 
+### Removed
+- General: update WordPress version requirements to WordPress 6.5.
+
 ## 0.4.0 - 2024-02-07
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3. [#31910]
