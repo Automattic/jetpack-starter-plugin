@@ -24,11 +24,13 @@ This is an alpha version! The changes listed here are not final.
 - Only show installation errors on plugins page
 - Remove explicit Plugin Install package dependency.
 - Remove the 'jetpack-identity-crisis' dependency.
-- Updated package dependencies.
 - Update package lock
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
+
+### Fixed
+- Updated package dependencies.
 
 ## 0.4.0 - 2024-02-07
 ### Changed
