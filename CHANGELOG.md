@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Only show installation errors on plugins page
 - Remove explicit Plugin Install package dependency.
 - Remove the 'jetpack-identity-crisis' dependency.
+- Update composer lock file
 - Update package lock
 
 ### Removed
