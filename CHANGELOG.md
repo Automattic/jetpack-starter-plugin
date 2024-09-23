@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package lock
 
 ### Removed
+- Connection: Removed deprecated method features_available
 - General: update WordPress version requirements to WordPress 6.5.
 
 ### Fixed
