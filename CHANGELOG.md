@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.5.
 
 ### Fixed
+- My Jetpack: visual update to the GlobalNotice component look better on mobile.
 - Updated package dependencies.
 
 ## 0.4.0 - 2024-02-07
