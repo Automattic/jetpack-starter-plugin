@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress, 6.5.
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
+- General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - General: update WordPress version requirements to WordPress 6.4.
 - General: use wp_admin_notice function introduced in WP 6.4 to display notices.
 - Only include `wp-polyfill` as a script dependency when needed.
