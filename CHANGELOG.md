@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add Woocommerce event remove_order_items to Jetpack Sync
 - Enable test coverage.
 - Explicitly add the Connection package as dependency
+- My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 - New setting in /sties/$site/settings that is not relevant to this plugin.
 - Packages: add version tracking for identity-crisis package.
 - Trigger red bubble notification when bad install is detected
