@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Only show installation errors on plugins page
 - Remove explicit Plugin Install package dependency.
 - Remove the 'jetpack-identity-crisis' dependency.
+- Resolved an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation.
 - Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Update composer lock file
 - Updated dependencies.
