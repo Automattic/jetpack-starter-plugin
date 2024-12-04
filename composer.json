@@ -10,7 +10,7 @@
 		"automattic/jetpack-composer-plugin": "^4.0.0",
 		"automattic/jetpack-config": "^3.0.0",
 		"automattic/jetpack-connection": "^6.1.1",
-		"automattic/jetpack-my-jetpack": "^5.1.1-alpha",
+		"automattic/jetpack-my-jetpack": "^5.1.1",
 		"automattic/jetpack-sync": "^4.0.2",
 		"automattic/jetpack-status": "^5.0.1"
 	},
@@ -63,6 +63,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_starter_pluginⓥ0_5_0_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_starter_pluginⓥ0_5_0"
 	}
 }
