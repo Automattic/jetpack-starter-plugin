@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- E2E Tests: Only install single browser used by Playwright.
+
 ## 0.5.0 - 2024-12-04
 ### Added
 - Add Woocommerce event remove_order_items to Jetpack Sync [#33748]
