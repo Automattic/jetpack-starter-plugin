@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
 - Updated package dependencies.
+- Update the unowned section from a product grid to a product list
 
 ### Fixed
 - E2E Tests: Only install single browser used by Playwright.
