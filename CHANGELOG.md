@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the unowned section from a product grid to a product list
 
 ### Fixed
+- Code: Prevent dynamic class properties.
 - E2E Tests: Only install single browser used by Playwright.
 
 ## 0.5.0 - 2024-12-04
