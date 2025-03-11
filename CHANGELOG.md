@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - jetpack-components: Export the getRedirectUrl function with subpath
+- Provide connection data to footer component.
 
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
