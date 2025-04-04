@@ -5,31 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.6.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- Adds Account Protection initialization
-- Connection: Disconnecting a connection owner account will disconnect all other users first.
-- Improve the onboarding experience of Jetpack guiding the users through a new onboarding process.
-- jetpack-components: Export the getRedirectUrl function with subpath
-- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
-- Provide connection data to footer component.
+## 0.6.0 - 2025-04-04
 
 ### Changed
-- Code: Use function-style exit() and die() with a default status code of 0.
-- Connection: Allow pre-selected login providers
-- Connection: Display connection status on Users page independent of the SSO module.
-- General: indicate compatibility with the upcoming version of WordPress - 6.8.
-- Updated composer.lock
-- Updated package dependencies.
-- Update package dependencies.
-- Update the unowned section from a product grid to a product list
+- Code: Use function-style `exit()` and `die()` with a default status code of 0. [#41167]
+- General: Indicate compatibility with WordPress 6.8. [#42701]
+- Update composer.lock [#40863]
+- Update package dependencies. [#40515] [#40564] [#40693] [#40815] [#40980] [#41099] [#41286] [#41491] [#41577] [#41659] [#42163] [#42180] [#42384] [#42511] [#42809] [#42815]
 
 ### Fixed
-- Code: Prevent dynamic class properties.
-- E2E Tests: Only install single browser used by Playwright.
+- Code: Prevent dynamic class properties. [#41857]
+- E2E Tests: Only install single browser used by Playwright. [#40827]
 
 ## 0.5.0 - 2024-12-04
 ### Added
