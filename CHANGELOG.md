@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Code: First pass of style coding standards.
+- Update package dependencies.
 
 ## 0.6.0 - 2025-04-04
 ### Changed
