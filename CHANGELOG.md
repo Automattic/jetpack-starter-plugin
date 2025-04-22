@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Code: First pass of style coding standards.
 - Update package dependencies.
 
+### Fixed
+- My Jetpack: Fix social login getting stuck when email input not empty
+
 ## 0.6.0 - 2025-04-04
 ### Changed
 - Code: Use function-style `exit()` and `die()` with a default status code of 0. [#41167]
