@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code: First pass of style coding standards.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
+- My Jetpack: Optimize the images for onboarding slider for faster page load.
 - My Jetpack: Updated the onboarding UI, changing it to a single button
 - Update package dependencies.
 
