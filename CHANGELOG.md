@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
 - Linting: Address final rules in WordPress Stylelint config.
 - My Jetpack: Fixed Onboarding UI responsiveness at 600px.
+- My Jetpack: Fix readability of license activation button on hover.
 - My Jetpack: Fix social login getting stuck when email input not empty
 
 ## 0.6.0 - 2025-04-04
