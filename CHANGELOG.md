@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Sync: Ignore the ActivityPub Outbox CPT
