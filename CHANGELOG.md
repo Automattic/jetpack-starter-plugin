@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- My Jetpack: Added analytics for empty product search results.
+
 ### Changed
 - Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
