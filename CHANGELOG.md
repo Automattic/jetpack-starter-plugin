@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Added analytics for empty product search results.
 
 ### Changed
+- Do not force CRM installation for Complete plan users
 - Improves performance of wpcom comments liking by caching and minimizing API requests.
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Fixed multisite availability check for restricted products and modules
