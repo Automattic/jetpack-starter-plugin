@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.9.1-alpha - unreleased
+## 0.10.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Update composer.lock.
 - Update package dependencies.
+
+### Removed
+- General: Update minimum WordPress version to 6.8.
 
 ## 0.9.0 - 2026-01-09
 ### Added
