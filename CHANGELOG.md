@@ -21,6 +21,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: Update minimum WordPress version to 6.8.
 
+### Fixed
+- Admin Page: Restore border on header component.
+
 ## 0.9.0 - 2026-01-09
 ### Added
 - IDC: Add revalidation for IDCs. [#46268]
