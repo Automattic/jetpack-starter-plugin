@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
+- Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
 - Update package dependencies.
 
