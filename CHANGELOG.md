@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin.
 
 ### Changed
+- Comment: Add Tracking to Jetpack upsell link.
 - Dependencies: Update lock file to keep root requirements in sync.
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
