@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Update admin page footer design.
 - Update composer.lock.
 - Update dependencies.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Removed
