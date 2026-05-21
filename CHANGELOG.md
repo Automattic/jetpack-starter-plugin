@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Tested up to WordPress 7.0.
+- Updated package dependencies.
 - Update package dependencies.
 
 ## 0.10.0 - 2026-04-10
