@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
+- My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
 ## 0.10.0 - 2026-04-10
 ### Added
