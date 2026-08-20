@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.9.
 - General: Update minimum WordPress version to 7.0.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Remove unneeded development and documentation files from the published plugin.
 - Tested up to WordPress 7.0.
 - Tested up to WordPress 7.1.
