@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Charts: draw labels at the design system's font weight and size.
 - Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
