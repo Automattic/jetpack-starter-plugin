@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
+
 ### Changed
 - General: Update minimum WordPress version to 6.9.
 - General: Update minimum WordPress version to 7.0.
@@ -27,6 +30,8 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
 - Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
+- My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 
 ## 0.10.0 - 2026-04-10
